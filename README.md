@@ -10,7 +10,7 @@ This project demonstrates how to integrate Public Cat's APIs to fetch and displa
  - fetches and displayes cat's images according to the selections of cat's breed
 
  ## API endpoints used
- 1. https://api.thecatapi.com/v1/images/${catid}` 
+ 1. https://api.thecatapi.com/v1/images 
  - output images
  2. https://api.thecatapi.com/v1/breeds
  - breed options
