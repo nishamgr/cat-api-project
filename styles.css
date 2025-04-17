@@ -1,0 +1,23 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: Center;
+    padding: 24px;
+    text-align: center;
+}
+
+nav {
+    margin-bottom: 25px;
+
+}
+
+img {
+    width: 350px;
+    margin-top: 25px
+}
+
+#breedInfo {
+    margin-top: 15px;
+    text-align: left;
+    display: inline-block;
+    max-width: 55px;
+}
